@@ -14,7 +14,7 @@ export { default as getOptionProperty } from './getOptionProperty';
 export { default as getStringLabelKey } from './getStringLabelKey';
 export { default as getTruncatedOptions } from './getTruncatedOptions';
 export { default as getUpdatedActiveIndex } from './getUpdatedActiveIndex';
-export { default as hasOwnProperty } from './hasOwnProperty';
+//export { default as hasOwnProperty } from './hasOwnProperty';
 export { default as isSelectable } from './isSelectable';
 export { default as isShown } from './isShown';
 export * from './nodash';
